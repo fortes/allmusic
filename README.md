@@ -1,6 +1,6 @@
 # AllMusic
 
-[![build status](https://travis-ci.org/fortes/allmusic.svg?branch=master)](https://travis-ci.org/fortes/allmusic)
+[![build status](https://travis-ci.org/fortes/allmusic.svg?branch=master)](https://travis-ci.org/fortes/allmusic) [![PyPI version](https://badge.fury.io/py/allmusic.svg)](https://badge.fury.io/py/allmusic)
 
 An unofficial scraper [AllMusic](https://allmusic.com) reviews.
 
