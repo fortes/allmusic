@@ -1,3 +1,7 @@
+# No longer maintained
+
+This is no longer maintained, code is archived and available for forking though.
+
 # AllMusic
 
 [![build status](https://travis-ci.org/fortes/allmusic.svg?branch=master)](https://travis-ci.org/fortes/allmusic) [![PyPI version](https://badge.fury.io/py/allmusic.svg)](https://badge.fury.io/py/allmusic)
